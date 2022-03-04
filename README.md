@@ -1,5 +1,7 @@
 # Neural Style Transfer
 
+![Comparison](https://github.com/julianbel/neural-style-transfer/blob/master/comparison.png?raw=true)
+
 Implementación en Tensorflow de la técnica Neural Style Transfer, propuesta en el paper titulado [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) (Gatys et al.).
 
 Se trata de una técnica de optimización que consiste en tomar dos imágenes, una que proporciona el contenido y otra la referencia de estilo (como una obra artística de un pintor), para fusionarlas en un único output que luce como la imagen de contenido, "pintada" en el estilo de la imagen que proporcionó dicha referencia.
